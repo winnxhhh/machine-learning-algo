@@ -1,4 +1,4 @@
-# machine-learning-algo
+# Comparison of Machine Learning Classification Algorithms
  This individual project was made for our Machine Learning midterm module.
  
  We compared the performances of different machine learning classification algorithms- k-Nearest Neighbours (kNN), Naive Bayes, Logistic Regression, and Decision Trees. kNN and Naive Bayes were coded from scratch while Logistic Regression and Decision Trees were implemented using the scikit-learn library. 
